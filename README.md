@@ -22,3 +22,6 @@ Mana programmēšanas pieredze lielākodaļ sastāv no Pitona valodas (Python) z
 ![Java](https://user-images.githubusercontent.com/78017308/106463182-c30e3d00-649f-11eb-9217-3e6f1d6dbbd5.png)
 
 
+Man ļoti interesē manu programmu (*Blackjack*, *Zinātniskais kalkulātors*, u. c.) uzlikšana uz GitHub platformas, bet es šo platformu kopumā vēl nesaprotu, bet ļoti gribētu to saprast labāk.
+
+__Paldies!__
